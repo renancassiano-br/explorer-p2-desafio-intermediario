@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer | Projeto 2 - corrigindo bugs </h1>
+<h1 align="center"> Explorer | Projeto 2 - Desafio intermediário </h1>
 
 <p align="center">
 Site desenvolvido como parte do treinamento do programa explorer da Rocketseat..
